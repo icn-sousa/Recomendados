@@ -1,7 +1,7 @@
 # Recomendados
 
-Os links disponiblizados nesse repositório, constantemente adicionados, direcionam para 
-conteúdos (em português e inglês) que já consultei ou ainda consulto, e que considero úteis.
+Os links disponiblizados nesse repositório, direcionam para conteúdos (em português e inglês) 
+que já consultei ou ainda consulto, e que considero úteis.
 
 Dividi a lista de referências por categorias para facilitar a organização dos materiais.
 
@@ -13,7 +13,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## Cheat Sheets
 
 - [Tidyverse for Beginners](https://datacamp-community-prod.s3.amazonaws.com/e63a8f6b-2aa3-4006-89e0-badc294b179c)
-- [R Markdown] (https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+- [R Markdown](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 
 ## Packages
 
