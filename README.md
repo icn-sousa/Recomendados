@@ -18,3 +18,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## Packages
 
 - [CRAN Task Views](https://cran.r-project.org/web/views/)
+
+## Vídeos
+
+- [dplyr verbs](https://calmcode.io/dplyr-verbs/introduction.html)
