@@ -22,3 +22,4 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## Vídeos
 
 - [dplyr verbs](https://calmcode.io/dplyr-verbs/introduction.html)
+- [ggplot](https://calmcode.io/ggplot/introduction.html)
