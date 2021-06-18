@@ -23,3 +23,4 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 - [dplyr verbs](https://calmcode.io/dplyr-verbs/introduction.html)
 - [ggplot](https://calmcode.io/ggplot/introduction.html)
+- [Webcast: How to learn to code](https://www.nature.com/articles/d41586-021-01638-z)
