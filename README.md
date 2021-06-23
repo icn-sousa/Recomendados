@@ -29,6 +29,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## Packages
 
 - [CRAN Task Views](https://cran.r-project.org/web/views/)
+- [Tidyverse](https://www.tidyverse.org/)
 
 ## Textos
 
