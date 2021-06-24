@@ -9,6 +9,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 - [Zen do R](https://curso-r.github.io/zen-do-r/index.html)
 - [Ciência de Dados em R](https://livro.curso-r.com/index.html)
+- [Efficient R programming](https://csgillespie.github.io/efficientR/)
 - [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
 
 ## Blogs
