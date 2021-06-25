@@ -15,6 +15,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## Blogs
 
 - [Stats and R](https://statsandr.com/)
+- [R-Bloggers](https://www.r-bloggers.com)
 
 ## Cheat Sheets
 
