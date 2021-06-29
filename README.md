@@ -20,6 +20,8 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## Cheat Sheets
 
 - [Tidyverse for Beginners](https://datacamp-community-prod.s3.amazonaws.com/e63a8f6b-2aa3-4006-89e0-badc294b179c)
+- [Data Transformation with dplyr](https://cdn.rawgit.com/rstudio/cheatsheets/85b5a5e2/data-transformation.pdf)
+- [Data Visualization with ggplot2](https://cdn.rawgit.com/rstudio/cheatsheets/85b5a5e2/data-visualization-2.1.pdf)
 - [R Markdown](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 
 ## DataViz
