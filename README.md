@@ -27,6 +27,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Data Viz Project](https://datavizproject.com/)
 - [The R Graph Gallery](http://www.r-graph-gallery.com/)
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/about.html)
+- [Chart Suggestions](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
 
 ## Packages
 
