@@ -55,3 +55,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Github1s](https://calmcode.io/websites/github1s.html)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Coding Club](https://ourcodingclub.github.io/)
+
+## Outros
+
+- [How to cite R and its packages](http://www.blopig.com/blog/2013/07/citing-r-packages-in-your-thesispaperassignments/)
