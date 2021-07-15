@@ -31,6 +31,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [The R Graph Gallery](http://www.r-graph-gallery.com/)
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/about.html)
 - [Chart Suggestions](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
+- [Color Hunt](https://colorhunt.co/)
 - [Coolors](https://coolors.co/)
 - [Colordot](https://color.hailpixel.com/#)
 - [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
