@@ -44,6 +44,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## Textos
 
 - [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
+- [A brief introduction to “apply” in R](https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/)
 
 ## Vídeos
 
