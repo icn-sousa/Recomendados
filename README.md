@@ -60,6 +60,10 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Coding Club](https://ourcodingclub.github.io/)
 - [RDocumentation](https://www.rdocumentation.org/)
 
+## Fontes de dados
+
+- [Base dos Dados: Repositório de Dados Abertos](https://basedosdados.org)
+
 ## Outros
 
 - [How to cite R and its packages](http://www.blopig.com/blog/2013/07/citing-r-packages-in-your-thesispaperassignments/)
