@@ -55,10 +55,11 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 ## Websites
 
-- [Github1s](https://calmcode.io/websites/github1s.html)
-- [Stack Overflow](https://stackoverflow.com/)
-- [Coding Club](https://ourcodingclub.github.io/)
 - [RDocumentation](https://www.rdocumentation.org/)
+- [Github1s](https://calmcode.io/websites/github1s.html)
+- [Statology](https://www.statology.org/)
+- [Coding Club](https://ourcodingclub.github.io/)
+- [Stack Overflow](https://stackoverflow.com/)
 
 ## Fontes de dados
 
