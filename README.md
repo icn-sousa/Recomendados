@@ -57,6 +57,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## Websites
 
 - [RDocumentation](https://www.rdocumentation.org/)
+- [rOpenSci](https://ropensci.org/)
 - [Github1s](https://calmcode.io/websites/github1s.html)
 - [Statology](https://www.statology.org/)
 - [Coding Club](https://ourcodingclub.github.io/)
@@ -69,3 +70,4 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## Outros
 
 - [How to cite R and its packages](http://www.blopig.com/blog/2013/07/citing-r-packages-in-your-thesispaperassignments/)
+- [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/#fn:2)
