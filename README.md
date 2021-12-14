@@ -1,6 +1,6 @@
 # Recomendados
 
-Os links disponiblizados nesse repositório, direcionam para conteúdos (em português e inglês) 
+Os links disponiblizados nesse repositório direcionam para conteúdos (em português e inglês) 
 que já consultei ou ainda consulto, e que considero úteis.
 
 Dividi a lista de referências por categorias para facilitar a organização dos materiais.
@@ -50,6 +50,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
 - [A brief introduction to “apply” in R](https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/)
 - [Tutoriais para R, Vanderlei Júlio Debastiani](https://vanderleidebastiani.github.io/tutoriais/)
+- [Learn R](https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet)
 
 ## Vídeos
 
