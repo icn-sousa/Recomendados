@@ -8,6 +8,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## R-Ladies
 - [Oficina de R - Básico](bit.ly/rladiesSP5)
 - [Oficina de R - Intermediário](bit.ly/rladiesSP6)
+- [Oficina Fundamentos de R](bit.ly/rladiesSP9)
 
 ## Livros
 
