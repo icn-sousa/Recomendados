@@ -5,6 +5,10 @@ que já consultei ou ainda consulto, e que considero úteis.
 
 Dividi a lista de referências por categorias para facilitar a organização dos materiais.
 
+## R-Ladies
+- [Oficina de R - Básico](bit.ly/rladiesSP5)
+- [Oficina de R - Intermediário](bit.ly/rladiesSP6)
+
 ## Livros
 
 - [Zen do R, Caio Lente & Curso-R](https://curso-r.github.io/zen-do-r/index.html)
