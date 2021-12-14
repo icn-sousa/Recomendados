@@ -12,6 +12,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 ## Livros
 
+- [Books written with Bookdown](https://bookdown.org/home/archive/)
 - [Zen do R, Caio Lente & Curso-R](https://curso-r.github.io/zen-do-r/index.html)
 - [Ciência de Dados em R, Curso-R](https://livro.curso-r.com/index.html)
 - [Efficient R programming, Colin Gillespie & Robin Lovelace](https://csgillespie.github.io/efficientR/)
