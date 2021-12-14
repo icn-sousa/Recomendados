@@ -7,16 +7,18 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 ## Livros
 
-- [Zen do R](https://curso-r.github.io/zen-do-r/index.html)
-- [Ciência de Dados em R](https://livro.curso-r.com/index.html)
-- [Efficient R programming](https://csgillespie.github.io/efficientR/)
-- [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
-- [Big Book of R](https://www.bigbookofr.com/index.html)
+- [Zen do R, Caio Lente & Curso-R](https://curso-r.github.io/zen-do-r/index.html)
+- [Ciência de Dados em R, Curso-R](https://livro.curso-r.com/index.html)
+- [Efficient R programming, Colin Gillespie & Robin Lovelace](https://csgillespie.github.io/efficientR/)
+- [R Graphics Cookbook, Winston Chang](https://r-graphics.org/)
+- [Big Book of R, Oscar Baruffa](https://www.bigbookofr.com/index.html)
+- [R for Data Science, Hadley Wickham & Garret Grolemud](https://r4ds.had.co.nz/index.html)
+- [Advanced R, Hadley Wickham](https://adv-r.hadley.nz/index.html)
 
 ## Blogs
 
-- [Stats and R](https://statsandr.com/)
-- [R-Bloggers](https://www.r-bloggers.com)
+- [Stats and R, Antoine Soetewey](https://statsandr.com/about/)
+- [R-Bloggers](https://www.r-bloggers.com/about/)
 
 ## Cheat Sheets
 
@@ -47,6 +49,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 - [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
 - [A brief introduction to “apply” in R](https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/)
+- [Tutoriais para R, Vanderlei Júlio Debastiani](https://vanderleidebastiani.github.io/tutoriais/)
 
 ## Vídeos
 
@@ -59,7 +62,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [RDocumentation](https://www.rdocumentation.org/)
 - [rOpenSci](https://ropensci.org/)
 - [Github1s](https://calmcode.io/websites/github1s.html)
-- [Statology](https://www.statology.org/)
+- [Statology, Zach Bobbitt](https://www.statology.org/)
 - [Coding Club](https://ourcodingclub.github.io/)
 - [Stack Overflow](https://stackoverflow.com/)
 
@@ -69,5 +72,5 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 ## Outros
 
-- [How to cite R and its packages](http://www.blopig.com/blog/2013/07/citing-r-packages-in-your-thesispaperassignments/)
-- [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/#fn:2)
+- [How to cite R and its packages - short version](http://www.blopig.com/blog/2013/07/citing-r-packages-in-your-thesispaperassignments/)
+- [How to Cite R and R Packages - longer version](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/#fn:2)
