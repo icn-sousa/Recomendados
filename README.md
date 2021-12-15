@@ -15,6 +15,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Books written with Bookdown](https://bookdown.org/home/archive/)
 - [Zen do R, Caio Lente & Curso-R](https://curso-r.github.io/zen-do-r/index.html)
 - [Ciência de Dados em R, Curso-R](https://livro.curso-r.com/index.html)
+- [Ciência de Dados com R - Introdução, Saulo Guerra, Paulo Felipe de Oliveira, Robert McDonnell & Sillas Gonzaga](http://sillasgonzaga.com/material/cdr/)
 - [Efficient R programming, Colin Gillespie & Robin Lovelace](https://csgillespie.github.io/efficientR/)
 - [R Graphics Cookbook, Winston Chang](https://r-graphics.org/)
 - [Big Book of R, Oscar Baruffa](https://www.bigbookofr.com/index.html)
