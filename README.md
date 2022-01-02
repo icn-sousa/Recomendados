@@ -60,6 +60,8 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Tutoriais para R, Vanderlei Júlio Debastiani](https://vanderleidebastiani.github.io/tutoriais/)
 - [CRAN: Contributed Documentation](https://cran.r-project.org/other-docs.html)
 - [Learn R](https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet)
+- [Asking the right data questions and asking the data questions right](https://filwd.substack.com/p/asking-the-right-data-questions-and)
+- [Clarity and Aesthetics in Data Visualization: Guidelines](https://filwd.substack.com/p/clarity-and-aesthetics-in-data-visualization?utm_campaign=Data_Elixir&utm_source=Data_Elixir_362)
 
 ## Vídeos
 
