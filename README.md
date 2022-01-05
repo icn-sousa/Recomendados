@@ -81,6 +81,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ## Fontes de dados
 
 - [Base dos Dados: Repositório de Dados Abertos](https://basedosdados.org)
+- [Portal Brasileiro de Dados Abertos](https://dados.gov.br/)
 
 ## Outros
 
