@@ -22,6 +22,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Big Book of R, Oscar Baruffa](https://www.bigbookofr.com/index.html)
 - [R for Data Science, Hadley Wickham & Garret Grolemud](https://r4ds.had.co.nz/index.html)
 - [Advanced R, Hadley Wickham](https://adv-r.hadley.nz/index.html)
+- [Happy Git and GitHub for the useR, Jennifer Bryan](https://happygitwithr.com/index.html)
 
 ## Blogs
 
