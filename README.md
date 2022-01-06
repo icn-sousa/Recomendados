@@ -78,6 +78,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Statology, Zach Bobbitt](https://www.statology.org/)
 - [Coding Club](https://ourcodingclub.github.io/)
 - [Stack Overflow](https://stackoverflow.com/)
+- [Tidy Data Tutor](https://tidydatatutor.com/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_365/)
 
 ## Fontes de dados
 
