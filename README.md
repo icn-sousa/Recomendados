@@ -63,6 +63,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Learn R](https://www.codecademy.com/learn/learn-r/modules/learn-r-introduction/cheatsheet)
 - [Asking the right data questions and asking the data questions right](https://filwd.substack.com/p/asking-the-right-data-questions-and)
 - [Clarity and Aesthetics in Data Visualization: Guidelines](https://filwd.substack.com/p/clarity-and-aesthetics-in-data-visualization?utm_campaign=Data_Elixir&utm_source=Data_Elixir_362)
+- [Declutter your R workflow with tidy tools](https://peerj.com/preprints/3180/#)
 
 ## Vídeos
 
