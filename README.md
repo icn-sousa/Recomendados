@@ -75,7 +75,6 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 - [RDocumentation](https://www.rdocumentation.org/)
 - [rOpenSci](https://ropensci.org/)
-- [Coding Club](https://ourcodingclub.github.io/)
 - [Tidy Data Tutor](https://tidydatatutor.com/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_365/)
 
 ### Outros
@@ -104,6 +103,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 ## Websites
 
+- [Coding Club](https://ourcodingclub.github.io/)
 - [Github1s](https://calmcode.io/websites/github1s.html)
 - [Statology, Zach Bobbitt](https://www.statology.org/)
 - [Stack Overflow](https://stackoverflow.com/)
