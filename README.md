@@ -12,9 +12,13 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 ## Python
 
+### Livros
+
 - [Python for Everybody - PY4E](https://www.py4e.com/)
 
-## R-Ladies
+## R
+
+### R-Ladies
 
 - [Oficina Fundamentos de R](bit.ly/rladiesSP9)
 - [Oficina de R - Básico](bit.ly/rladiesSP5)
