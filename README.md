@@ -15,6 +15,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ### Livros
 
 - [Python for Everybody - PY4E](https://www.py4e.com/)
+- [Think Python - How to think like a computer scientist](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 
 ## R
 
