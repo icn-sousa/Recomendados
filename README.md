@@ -96,6 +96,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Coolors](https://coolors.co/)
 - [Colordot](https://color.hailpixel.com/#)
 - [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+- [10 ways to use fewer colors in your data visualizations](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/)
 
 ## Textos
 
