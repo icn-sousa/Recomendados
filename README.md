@@ -89,6 +89,8 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 ## DataViz
 
+### Ferramentas
+
 - [Data Viz Project](https://datavizproject.com/)
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/about.html)
 - [Chart Suggestions](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
@@ -96,12 +98,12 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Coolors](https://coolors.co/)
 - [Colordot](https://color.hailpixel.com/#)
 - [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
-- [10 ways to use fewer colors in your data visualizations](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/)
 
-## Textos
+### Textos
 
 - [Asking the right data questions and asking the data questions right](https://filwd.substack.com/p/asking-the-right-data-questions-and)
 - [Clarity and Aesthetics in Data Visualization: Guidelines](https://filwd.substack.com/p/clarity-and-aesthetics-in-data-visualization?utm_campaign=Data_Elixir&utm_source=Data_Elixir_362)
+- [10 ways to use fewer colors in your data visualizations](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/)
 
 ## Vídeos
 
