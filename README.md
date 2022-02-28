@@ -104,6 +104,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [Asking the right data questions and asking the data questions right](https://filwd.substack.com/p/asking-the-right-data-questions-and)
 - [Clarity and Aesthetics in Data Visualization: Guidelines](https://filwd.substack.com/p/clarity-and-aesthetics-in-data-visualization?utm_campaign=Data_Elixir&utm_source=Data_Elixir_362)
 - [10 ways to use fewer colors in your data visualizations](https://blog.datawrapper.de/10-ways-to-use-fewer-colors-in-your-data-visualizations/)
+- [Effective Data Visualizations Should Focus on Narrative, Not Numbers](https://nightingaledvs.com/effective-data-visualizations-should-focus-on-narrative-not-numbers/)
 
 ## Vídeos
 
