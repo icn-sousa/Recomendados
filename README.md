@@ -56,6 +56,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 ### DataViz
 
 - [The R Graph Gallery](http://www.r-graph-gallery.com/)
+- [Colors for all!](https://github.com/mtennekes/cols4all?utm_campaign=Data_Elixir&utm_source=Data_Elixir_376#readme)
 
 ### Packages
 
