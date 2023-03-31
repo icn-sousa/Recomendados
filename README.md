@@ -19,6 +19,7 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 
 ### Tutoriais
 
+- [Pandas datetime](https://calmcode.io/pandas-datetime/introduction.html)
 - [Scikit Learn](https://calmcode.io/scikit-learn/introduction.html)
 
 ## R
