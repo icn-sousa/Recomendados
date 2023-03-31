@@ -17,6 +17,10 @@ Dividi a lista de referências por categorias para facilitar a organização dos
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
 - [The Python Coding Book](https://thepythoncodingbook.com/)
 
+### Tutoriais
+
+- [Scikit Learn](https://calmcode.io/scikit-learn/introduction.html)
+
 ## R
 
 ### R-Ladies
